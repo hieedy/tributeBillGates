@@ -1,0 +1,67 @@
+.container{
+	width:80vw;
+	text-align: center;
+	margin-left:10vw;
+	margin-right:10vw;
+	background-color:#eee;
+}
+
+header h1{
+	padding-top:20px;
+	font-size:4em;
+	margin-bottom:0px;
+} 
+.born-date{
+	margin-top: 0px;
+	font-weight:normal;
+
+}
+header .intro{
+	font-weight: normal;
+	margin-top: 0px;
+}
+.section-1 p{
+	border: 0.5px solid #ddd;
+	margin-left: 40px;
+	margin-right:40px;
+	text-align: justify;
+}
+.section-2{
+	border: 0.5px solid #ddd;
+	margin-left: 40px;
+	margin-right:40px;
+}
+.section-2 .bill-image img{
+width:197px;
+height: 197px;
+border-radius:50%;
+}
+.section-2 .port-desc{
+	background-color: #ddd;
+	padding:10px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.section-3{
+	margin-left:40px;
+	margin-right:40px;
+}
+.section-3 h1{
+	text-align: left;
+}
+.section-3 span{
+	font-weight: bolder;
+}
+.section-3 .timeline{
+	text-align: left;
+}
+.section-3 .timeline ul li{
+	margin:0.5em;
+}
+
+section .more-info{
+	padding-bottom: 40px;
+}
+p{
+	text-align: right;
+}
